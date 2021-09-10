@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.141.59">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59-javadoc.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" recursive="false" type="SOURCES" />
+  </library>
+</component>
