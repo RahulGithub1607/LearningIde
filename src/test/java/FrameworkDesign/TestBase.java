@@ -47,7 +47,7 @@ public class TestBase {
 
             driver = new InternetExplorerDriver();
         }
-
+        //login to URL
         driver.get(config.getProperty("LoginUrl"));
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Long.parseLong(config.getProperty("implicit.wait")), TimeUnit.SECONDS);
