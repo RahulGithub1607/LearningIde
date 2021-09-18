@@ -5,8 +5,6 @@
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar!/" />
-      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
-      <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59-javadoc.jar!/" />
@@ -20,7 +18,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
       <root url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" />
     </SOURCES>
-    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" recursive="false" type="SOURCES" />
     <jarDirectory url="file://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver" recursive="false" type="SOURCES" />
   </library>
 </component>
