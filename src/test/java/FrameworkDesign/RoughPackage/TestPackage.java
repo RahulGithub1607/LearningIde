@@ -18,6 +18,7 @@ public class TestPackage {
         //fetch the data from config file by giving property
 
         config.getProperty("LoginUrl");
+
         System.out.println(config.getProperty("LoginUrl"));
 
         //  Read the OR  properties
